@@ -8,4 +8,3 @@ I have transform my result as [GIF](https://github.com/chenyilin123/computationa
 ## Material
 Here's my [Source Code](https://github.com/chenyilin123/computational_physics_N2015301020152/blob/master/Exercise%2003%20make%20the%20name%20move/pygame%E6%96%87%E4%BB%B6.py)
 
-![图](https://raw.githubusercontent.com/chenyilin123/computational_physics_N2015301020152/master/Exercise%2003%20make%20the%20name%20move/%E6%BA%90%E4%BB%A3%E7%A0%81.png)
