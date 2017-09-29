@@ -6,4 +6,4 @@
 - [x] [Exercise_03: make the name move](https://github.com/chenyilin123/computational_physics_N2015301020152/tree/master/Exercise%2003%20make%20the%20name%20move)
 - [x] [Exercise_03: make the name move](https://github.com/chenyilin123/computational_physics_N2015301020152/tree/master/Exercise%2003%20make%20the%20name%20move)
 
-谢谢李东旭同学的Readme排版指导！
+
