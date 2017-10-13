@@ -1,4 +1,3 @@
-# compuational_physics_N2015301020152
 ### 15级物院弘毅 陈亦林
 ## Homework List
 - [x] Exercise_01: install python
