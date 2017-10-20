@@ -6,4 +6,4 @@
 - [x] [Exercise_04: Euler method](https://www.zybuluo.com/2015301020152/note/902953)
 （真的很抱歉助教老师。。。第四次作业的链接之前贴错了，给您造成了不便┭┮﹏┭┮我已经和蔡老师说了，现在修正了链接，麻烦您能批阅一下以及补一下第四次作业的成绩。谢谢和麻烦您了！    15弘毅物院学生 陈亦林）
 - [x] [Exercise_05: cannon shell](https://www.zybuluo.com/2015301020152/note/914459)
-
+- [x] [Exercise 06 Trajectory of A Backspined Fastball](https://www.zybuluo.com/2015301020152/note/914459)
