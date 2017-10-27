@@ -1,2 +1,2 @@
-# Exercise 06 Exercise 07 Pendulum
+# Exercise 07 Pendulum
 [Article](https://www.zybuluo.com/2015301020152/note/930853)
