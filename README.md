@@ -9,3 +9,4 @@
 - [x] [Exercise 06 Trajectory of A Backspined Fastball](https://www.zybuluo.com/2015301020152/note/922362)
 - [x] [Exercise 07 Pendulum](https://www.zybuluo.com/2015301020152/note/930853)
 - [x] [Exercise 08 The Lorenz Model](https://www.zybuluo.com/2015301020152/note/939335)
+- [x] [Exercise 09 The Billiard Problem](https://www.zybuluo.com/2015301020152/note/947298)
