@@ -1,4 +1,4 @@
-### 15级物院弘毅 陈亦林
+https://www.zybuluo.com/2015301020152/note/971506### 15级物院弘毅 陈亦林
 ## Homework List
 - [x] Exercise_01: install python
 - [x] [Exercise_02: print my name](https://github.com/chenyilin123/computational_physics_N2015301020152/tree/master/Exercise%2002%20print%20my%20name)
@@ -11,4 +11,4 @@
 - [x] [Exercise 08 The Lorenz Model](https://www.zybuluo.com/2015301020152/note/939335)
 - [x] [Exercise 09 The Billiard Problem](https://www.zybuluo.com/2015301020152/note/947298)
 ### [期中pygame -- “武大物院生存游戏”（麻烦老师能看一下，这是我在11月30日才完全做完的，希望老师能补看一下，辛苦您了！谢谢！）](https://www.zybuluo.com/2015301020152/note/970179)
-- [x] [Exercise 10 Three-body Simulation]()
+- [x] [Exercise 10 Three-body Simulation](https://www.zybuluo.com/2015301020152/note/971506)
