@@ -1,4 +1,4 @@
-https://www.zybuluo.com/2015301020152/note/971506### 15级物院弘毅 陈亦林
+### 15级物院弘毅 陈亦林
 ## Homework List
 - [x] Exercise_01: install python
 - [x] [Exercise_02: print my name](https://github.com/chenyilin123/computational_physics_N2015301020152/tree/master/Exercise%2002%20print%20my%20name)
