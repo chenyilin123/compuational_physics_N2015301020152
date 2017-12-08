@@ -12,3 +12,4 @@
 - [x] [Exercise 09 The Billiard Problem](https://www.zybuluo.com/2015301020152/note/947298)
 ### [期中pygame -- “武大物院生存游戏”（麻烦老师能看一下，这是我在11月30日才完全做完的，希望老师能补看一下，辛苦您了！谢谢！）](https://www.zybuluo.com/2015301020152/note/970179)
 - [x] [Exercise 10 Three-body Simulation](https://www.zybuluo.com/2015301020152/note/971506)
+- [x] [Exercise 11 Jacobi Method](https://www.zybuluo.com/2015301020152/note/979749)
