@@ -13,3 +13,4 @@
 ### [期中pygame -- “武大物院生存游戏”（麻烦老师能看一下，这是我在11月30日才完全做完的，希望老师能补看一下，辛苦您了！谢谢！）](https://www.zybuluo.com/2015301020152/note/970179)
 - [x] [Exercise 10 Three-body Simulation](https://www.zybuluo.com/2015301020152/note/971506)
 - [x] [Exercise 11 Jacobi Method](https://www.zybuluo.com/2015301020152/note/979749)
+- [x] [Exercise 12 Waves](https://www.zybuluo.com/2015301020152/note/988052)(强烈建议关闭多余网页和应用程序再点开！！！因为这里面的gif不是频录以后再转换格式的，而是直接生成的，所以不知道为什么极为占用内存。。。所以可能会很卡）
