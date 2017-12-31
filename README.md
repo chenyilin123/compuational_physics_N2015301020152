@@ -10,7 +10,8 @@
 - [x] [Exercise 07 Pendulum](https://www.zybuluo.com/2015301020152/note/930853)
 - [x] [Exercise 08 The Lorenz Model](https://www.zybuluo.com/2015301020152/note/939335)
 - [x] [Exercise 09 The Billiard Problem](https://www.zybuluo.com/2015301020152/note/947298)
-### [期中pygame -- “武大物院生存游戏”（麻烦老师能看一下，这是我在11月30日才完全做完的，希望老师能补看一下，辛苦您了！谢谢！）](https://www.zybuluo.com/2015301020152/note/970179)
+### [期中pygame -- “武大物院生存游戏”](https://www.zybuluo.com/2015301020152/note/970179)
 - [x] [Exercise 10 Three-body Simulation](https://www.zybuluo.com/2015301020152/note/971506)
 - [x] [Exercise 11 Jacobi Method](https://www.zybuluo.com/2015301020152/note/979749)
 - [x] [Exercise 12 Waves](https://www.zybuluo.com/2015301020152/note/988052)(出于一些技术上的原因，里面的gif全部附的链接，而不是直接附上gif，里面会有说明和重要提醒！！！！请一定要看提醒）
+### [计算物理期末论文]
